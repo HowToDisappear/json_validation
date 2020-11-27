@@ -1,0 +1,71 @@
+This log is a short version, for details pls see log_detailed.txt
+
+Error messages you may encounter: 
+
+'<someproperty>' is a required property
+That means you need to add the missing property to the json file.
+If you're seeing repeating messages that means you probably need to add the properties to several places in the json file. Log_detailed will have respective indices for your convinience.
+
+'<somevalue>' is not of type '<sometype>'
+correct the value to be of the type '<sometype>'
+if '<somevalue>' is None then the data is missing and you need to add it
+
+
+The Log:
+f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json
+error(s):
+
+---------------------------------------
+
+fb1a0854-9535-404d-9bdd-9ec0abb6cd6c.json
+error(s):
+'cmarkers' is a required property
+
+---------------------------------------
+
+bb998113-bc02-4cd1-9410-d9ae94f53eb0.json
+error(s):
+'unique_id' is a required property
+
+---------------------------------------
+
+e2d760c3-7e10-4464-ab22-7fda6b5e2562.json
+error(s):
+'bad user id' is not of type 'integer'
+
+---------------------------------------
+
+cc07e442-7986-4714-8fc2-ac2256690a90.json
+error(s):
+None is not of type 'object'
+
+---------------------------------------
+
+297e4dc6-07d1-420d-a5ae-e4aff3aedc19.json
+error(s):
+'type' is a required property
+'type' is a required property
+'type' is a required property
+
+---------------------------------------
+
+ffe6b214-d543-40a8-8da3-deb0dc5bbd8c.json
+error(s):
+None is not of type 'integer'
+'suprt marker' is not of type 'array'
+
+---------------------------------------
+
+1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3.json
+error(s):
+'unique_id' is a required property
+'user' is a required property
+'user_id' is a required property
+
+---------------------------------------
+
+3b4088ef-7521-4114-ac56-57c68632d431.json
+error(s):
+
+---------------------------------------
+
